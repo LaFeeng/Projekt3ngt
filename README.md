@@ -1,7 +1,7 @@
 
 # Election Scraper
 
-Třetí projekt do Engeto Online Python Akademie.
+Třetí projekt do Engeto Online Python Akademie 2024.
 
 ## Autor
 
