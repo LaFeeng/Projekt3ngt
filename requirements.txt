@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.3
+soupsieve==2.5
+pip==24.2
+wheel==0.41.2
+certifi==2023.5.7
+idna==3.4
+setuptools==68.0.0
+requests==2.31.0
+urllib3==2.0.4
+
